@@ -1,0 +1,7 @@
+google==3.0.0
+google-api-core==2.7.3
+google-api-python-client==2.47.0
+google-auth==2.6.6
+google-auth-httplib2==0.1.0
+firebase_admin
+blinker==1.5
